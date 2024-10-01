@@ -1,0 +1,29 @@
+{
+	"addonId": "Prueba de velocidad de internet",
+	"displayName": "Prueba de velocidad de internet",
+	"URL": "",
+	"description": "Complemento para realizar una prueba de velocidad de internet de manera r\u00e1pida y sencilla.",
+	"sha256": "c8d25d917ce863285590e6334f215b0fb71ce0db71a17e07cededa68de124303",
+	"homepage": "https://github.com/marcomolinaleija/prueba-de-velocidad-de-internet",
+	"addonVersionName": "1.0.0",
+	"addonVersionNumber": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	},
+	"minNVDAVersion": {
+		"major": 2023,
+		"minor": 1,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2024,
+		"minor": 3,
+		"patch": 1
+	},
+	"channel": "stable",
+	"publisher": "",
+	"sourceURL": "https://github.com/marcomolinaleija/prueba-de-velocidad-de-internet",
+	"license": "GPL 2",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html"
+}
